@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/Netflix/SimianArmy.svg?branch=master)](https://travis-ci.org/Netflix/SimianArmy)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## PROJECT STATUS: RETIRED.
+## PROJECT STATUS: RETIRED
 
 **The Simian Army project is no longer actively maintained**. Some of the Simian
 Army functionality has been moved to other Netflix projects:
